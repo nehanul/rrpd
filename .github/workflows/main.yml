@@ -1,3 +1,5 @@
+name: Free Vps By SemlerByte
+
 on:
   workflow_dispatch:
 
